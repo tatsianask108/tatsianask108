@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Tatsiana
+
+- 🌱 currently learning Frontent Development at Rolling Scopes School.
 
 <!--
 **tatsianask108/tatsianask108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### My Projects
+- [Nonograms Game](https://rolling-scopes-school.github.io/tatsianask108-JSFE2023Q4/nonograms/)
+- [Coffee House](https://rolling-scopes-school.github.io/tatsianask108-JSFE2023Q4/coffee-house/)
+- [Hangman Game](https://rolling-scopes-school.github.io/tatsianask108-JSFE2023Q4/hangman/)
+- [Audio Player](https://rolling-scopes-school.github.io/tatsianask108-JSFEPRESCHOOL2023Q2/audio-player/)
+- [Image Gallery](https://rolling-scopes-school.github.io/tatsianask108-JSFEPRESCHOOL2023Q2/image-galery/)
