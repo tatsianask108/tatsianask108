@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tatsiana
-
- - currently learning React, Redux, Next.js at the [Rolling Scopes School](https://rs.school/)
+ - ⚡ [Rolling Scopes School](https://rs.school/) student
+ - 👩‍💻 currently learning React, Redux, Next.js at summer [cource](https://github.com/rolling-scopes-school/tasks/tree/master/react)
 
 <!--
 **tatsianask108/tatsianask108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
